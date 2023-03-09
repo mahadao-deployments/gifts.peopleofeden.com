@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[2369],{62369:function(a,c,e){a.exports=e.p+"static/media/Tick.c9896e56f9312322030c.svg"}}]);

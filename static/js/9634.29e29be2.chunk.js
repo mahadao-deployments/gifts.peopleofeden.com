@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[9634],{19634:function(a,c,e){a.exports=e.p+"static/media/ArrowFilledUp.1c471bdb4cee99ad2c49.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[3610],{43610:function(a,e,s){a.exports=s.p+"static/media/ProposalPending.6cb8e148690823a6da03.svg"}}]);

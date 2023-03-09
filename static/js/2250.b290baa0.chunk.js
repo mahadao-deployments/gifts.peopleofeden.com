@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[2250],{52250:function(a,c,e){a.exports=e.p+"static/media/Settings.bcbb69733e16134bcd31.svg"}}]);

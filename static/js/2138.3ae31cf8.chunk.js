@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[2138],{22138:function(a,e,c){a.exports=c.p+"static/media/Twitter.8dc363d3eb5dea00d7e2.svg"}}]);

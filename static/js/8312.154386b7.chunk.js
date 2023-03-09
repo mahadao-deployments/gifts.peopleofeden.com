@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[8312],{68312:function(a,s,c){a.exports=c.p+"static/media/InfoToolTip.1128403125b3091a5778.svg"}}]);

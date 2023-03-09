@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[2432],{22432:function(a,e,c){a.exports=c.p+"static/media/ArrowTailLeft.0433b9742e9f9abaca29.svg"}}]);

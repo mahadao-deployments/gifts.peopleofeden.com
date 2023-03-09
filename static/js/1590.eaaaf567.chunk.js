@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[1590],{21590:function(a,s,c){a.exports=c.p+"static/media/ArrowTailUp.33366b07905b75f6729f.svg"}}]);

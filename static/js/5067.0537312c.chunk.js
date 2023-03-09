@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[5067],{95067:function(a,e,c){a.exports=c.p+"static/media/Delete.cd1320aad1aeeb3db3c0.svg"}}]);

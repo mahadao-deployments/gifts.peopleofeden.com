@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[7588],{97588:function(a,e,s){a.exports=s.p+"static/media/Copied.00a0077f37a2de24f6d0.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[5320],{85320:function(a,c,e){a.exports=e.p+"static/media/ArrowLinkColored.aa919279cbb5a24df442.svg"}}]);

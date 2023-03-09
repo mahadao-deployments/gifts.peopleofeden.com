@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[4998],{84998:function(a,c,e){a.exports=e.p+"static/media/ARTHlg.40b04cccea9e92a49732.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[6608],{6608:function(a,c,e){a.exports=e.p+"static/media/Mahalg.9e0a75ed24abc57c850c.svg"}}]);

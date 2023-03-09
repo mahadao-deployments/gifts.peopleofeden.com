@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[1090],{31090:function(a,c,s){a.exports=s.p+"static/media/Transaction.ddbc8c398712ffd6f01c.svg"}}]);

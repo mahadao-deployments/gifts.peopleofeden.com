@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[8201],{28201:function(a,e,s){a.exports=s.p+"static/media/MAHALogo.53926268ed9f1817d31b.svg"}}]);

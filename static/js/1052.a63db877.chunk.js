@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[1052],{71052:function(e,a,s){e.exports=s.p+"static/media/DotMenu.04e7465be81e7d794254.svg"}}]);

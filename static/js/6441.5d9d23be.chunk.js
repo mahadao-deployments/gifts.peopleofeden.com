@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[6441],{76441:function(a,e,c){a.exports=c.p+"static/media/DeleteFaded.6a430be906495cf76d7c.svg"}}]);

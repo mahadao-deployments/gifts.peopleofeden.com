@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[9222],{99222:function(a,c,e){a.exports=e.p+"static/media/OneIcon.dc1cb4df844173d0a6d2.svg"}}]);

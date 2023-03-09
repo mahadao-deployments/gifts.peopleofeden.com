@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[6983],{36983:function(a,c,s){a.exports=s.p+"static/media/Github.cad4dd36f1996175b386.svg"}}]);

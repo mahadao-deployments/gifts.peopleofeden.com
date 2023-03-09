@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[1922],{11922:function(a,e,s){a.exports=s.p+"static/media/Cart.8f98aa49fe9a96574f68.svg"}}]);

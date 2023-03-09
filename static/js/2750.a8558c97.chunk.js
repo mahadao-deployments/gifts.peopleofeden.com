@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[2750],{32750:function(a,e,c){a.exports=c.p+"static/media/Discord.4bfe03b6f52baca16bee.svg"}}]);

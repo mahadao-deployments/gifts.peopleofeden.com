@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[5211],{45211:function(a,e,s){a.exports=s.p+"static/media/Calendar.1b3eb88488822825d5d4.svg"}}]);

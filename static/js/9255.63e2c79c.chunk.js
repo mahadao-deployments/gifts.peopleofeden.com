@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[9255],{9255:function(a,c,e){a.exports=e.p+"static/media/ArrowUp.7ecd9551b3a88123b5c7.svg"}}]);

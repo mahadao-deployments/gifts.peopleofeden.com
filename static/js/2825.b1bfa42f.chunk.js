@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[2825],{72825:function(a,e,s){a.exports=s.p+"static/media/MAHAStartersm.ed44307dff6ef77e60bf.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaha_collab=self.webpackChunkmaha_collab||[]).push([[1813],{11813:function(a,c,e){a.exports=e.p+"static/media/Wallet.cce88c84ffce6d3a4c97.svg"}}]);
